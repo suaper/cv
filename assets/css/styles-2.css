@@ -43,10 +43,6 @@ p {
   line-height: 1.5;
 }
 
-img.profile{
-  width: 120px;
-  border-radius: 50%;
-}
 .wrapper {
   background: #4CAC9D;
   max-width: 960px;
@@ -89,6 +85,8 @@ img.profile{
 }
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
+  width: 82px;
+  border-radius: 50%;
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
