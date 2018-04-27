@@ -42,6 +42,11 @@ a:focus {
 p {
   line-height: 1.5;
 }
+
+img.profile{
+  width: 120px;
+  border-radius: 50%;
+}
 .wrapper {
   background: #4CAC9D;
   max-width: 960px;
